@@ -54,7 +54,7 @@
   
   
   
-  "fore_user_to_collect_coins_to_start": true,
+  "fore_user_to_collect_coins_to_start": false,
   
   "fore_user_to_rate_app": false,
   
