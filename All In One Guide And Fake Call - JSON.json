@@ -43,7 +43,7 @@
   
   
  
-  "show_tips": false,
+  "show_tips": true,
   "show_fake_call": false,
   
   "show_videos_btn": false,
